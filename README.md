@@ -1,4 +1,4 @@
-# Hi there, I'm [Lloyd Bowar] 👋
+# Hi there, I'm Lloyd Bowar 👋
 
 ## About Me
 
