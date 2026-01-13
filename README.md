@@ -29,17 +29,17 @@ I'm a passionate Full Stack Developer with a love for creating dynamic and respo
 
 ## Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PinkSquacht&show_icons=true&theme=radical)
 
 ## Contributions
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PinkSquacht&theme=radical)
 
 ## Support My Work
 
 If you find my work interesting or useful, consider supporting me!
 
-- [Buy Me a Coffee](https://www.buymeacoffee.com/yourusername)
-- [PayPal](https://www.paypal.me/yourusername)
+- [Buy Me a Coffee](https://www.buymeacoffee.com/PinkSquacht)
+- [PayPal](https://www.paypal.me/PinkSquacht)
 
 Thanks for visiting my GitHub profile! Feel free to reach out if you have any questions or collaboration ideas.
