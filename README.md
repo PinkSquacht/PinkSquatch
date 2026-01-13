@@ -22,6 +22,10 @@ I'm a passionate Full Stack Developer with a love for creating dynamic and respo
 - **CI/CD**: Jenkins, GitHub Actions, Travis CI
 - **Version Control**: Git, GitHub
 
+## Open to Opportunities
+
+I'm currently **open to collaboration and freelance work**! If you have an interesting project or need development expertise, feel free to reach out.
+
 ## Get in Touch
 
 - **Email**: [Lloyd.bowar@gmail.com](mailto:Lloyd.bowar@gmail.com)
